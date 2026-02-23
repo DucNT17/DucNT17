@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ducnt17&label=Profile%20views&color=0e75b6&style=flat" alt="ducnt17" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ducnt17)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DucNT17)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working as **AI Engineer**
 
